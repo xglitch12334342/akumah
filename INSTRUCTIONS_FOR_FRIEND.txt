@@ -1,0 +1,31 @@
+HOW TO USE THE SAM APP (FOR FRIENDS)
+========================================
+
+If you are unable to Sign Up or are seeing an "Error" message, please follow these steps:
+
+1. ENABLE INTERNET
+------------------
+Make sure your phone has a stable internet connection. Firebase requires internet to create your account.
+
+2. APP REQUIREMENTS
+-------------------
+- Use a valid email format (example: yourname@gmail.com)
+- Your password MUST be at least 6 characters long.
+
+3. FOR THE DEVELOPER (IF YOU ARE RUNNING THE CODE)
+-------------------------------------------------
+If you are trying to run the code in Android Studio yourself, you must have these two files from the project owner:
+- File 1: 'google-services.json' (Place in: android/app/)
+- File 2: 'firebase_options.dart' (Place in: lib/)
+
+Without these two files, the app will show a generic "Error" because it doesn't know which database to connect to.
+
+4. COMMON ERRORS
+----------------
+- "Email already in use": This means an account with that email already exists. Try Signing In instead.
+- "Password too weak": Your password is too short. Use at least 6 characters.
+- "Network Error": Check your Wi-Fi or Data.
+
+5. FINAL STEP
+-------------
+If the app was just updated, UNINSTALL the old version from your phone first, then install the new version.

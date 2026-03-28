@@ -1,0 +1,25 @@
+To add the manga cover images for your project, please download the following images and place them in the assets/images/ folder:
+
+1. Solo Leveling: Search "Solo Leveling manga cover" on Google Images, download a high-quality cover image, save as "solo_leveling.jpg"
+
+2. One Piece: Search "One Piece manga cover" on Google Images, download, save as "one_piece.jpg"
+
+3. Demon Slayer: Search "Demon Slayer manga cover", save as "demon_slayer.jpg"
+
+4. Spy x Family: Search "Spy x Family manga cover", save as "spy_x_family.jpg"
+
+5. Blue Lock: Search "Blue Lock manga cover", save as "blue_lock.jpg"
+
+6. Attack on Titan: Search "Attack on Titan manga cover", save as "attack_on_titan.jpg"
+
+7. My Hero Academia: Search "My Hero Academia manga cover", save as "my_hero_academia.jpg"
+
+8. Jujutsu Kaisen: Search "Jujutsu Kaisen manga cover", save as "jujutsu_kaisen.jpg"
+
+9. Death Note: Search "Death Note manga cover", save as "death_note.jpg"
+
+10. Chainsaw Man: Search "Chainsaw Man manga cover", save as "chainsaw_man.jpg"
+
+Make sure the images are in JPG format and named exactly as above. The app will then display the correct covers for each manga.
+
+For the login screen background, if you want a local image, download an anime background image and save as "login_background.jpg" in assets/images/, then I can update the code to use it.
